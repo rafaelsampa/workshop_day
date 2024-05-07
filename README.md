@@ -1,24 +1,40 @@
-# workshop_day
+# Eu estou usando markdown
+
+### Será que estou aprendendo?
+
+Ele pediu para não avacalhar com os nomes, ta bom.
 
 
-
-### Chuveu pra caramba
-
-### Fui pra o workshop de git github
-
-### ta bem massa, carai esse cara ta dando bis
-
+teste de codigos:
 
 ```c
+
+
 #include <stdio.h>
 
-int main (){
+int main () {
 
-  printf("\nHello World !!!\n");
+    printf("\nHello World !!!\n");
 
-  return 0;
-} 
+    return 0;
+}
+
+
 
 ```
 
-# foi tranquilo
+No markdown tem como fazer varias coisas, assim como adicionar imagens, mas aparentemente não é tão simples
+Por essa razão a gente não aprendeu isso hoje, acredito que não era tão importante quanto o que a gente viu hoje.
+
+
+O que eu fiz:
+* Perguntei uma pergunta - Ganhei um bis
+* Aprendi a descrever um código no markdown
+*  
+
+
+
+
+
+
+
